@@ -5,7 +5,6 @@ table.read(function (context) {
 });
 
 table.insert(function (context) {
-    context.item.createdAt = Date.now()
     return context.execute();
 });
 
