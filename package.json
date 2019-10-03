@@ -11,7 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "azure-mobile-apps": "^4.0.1",
-    "express": "^4.17.1",
-    "sqlite3": "^4.1.0"
+    "express": "^4.17.1"
   }
 }
