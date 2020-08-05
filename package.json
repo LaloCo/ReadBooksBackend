@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "azure-mobile-apps": "^4.0.1",
+    "azure-mobile-apps": "^4.0.2",
     "express": "^4.17.1"
   }
 }
