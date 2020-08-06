@@ -9,7 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "engines":{"node": "8.1.4"},
+  "engines":{
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "dependencies": {
     "azure-mobile-apps": "^4.0.2",
     "express": "^4.17.1"
