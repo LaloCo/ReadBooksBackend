@@ -1,1 +1,1 @@
-nodeProcessCommandLine: "%ProgramFiles(x86)%\nodejs\10.6.0\node.exe"
+nodeProcessCommandLine: "%ProgramFiles(x86)%\nodejs\8.9.4\node.exe"
